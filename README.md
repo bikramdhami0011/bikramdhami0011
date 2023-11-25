@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bikramdhami0011
-- 👀 I’m interested in app and website development
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @bikramdhami0011.
+- 👀 I’m interested in app and website development.
+- 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on anyone who have knowledge about app and website development.
 - 📫 How to reach me  easily from this site and from facebook also
 
